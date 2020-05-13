@@ -52,11 +52,11 @@ The aim of this project is to build a machine learning model to analyze disaster
 3. Go to http://0.0.0.0:3001/
 
 ### 4. Results <a name="results"></a>
-Check Results folder.
-<!-- ![screenshot-1](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-1.png)
-![screenshot-2](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-2.png)
-![screenshot-3](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-3.png)
-![screenshot-4](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-4.png) -->
+Screenshots from the web application.
+![screenshot-1](https://user-images.githubusercontent.com/28558875/81770414-67171900-950a-11ea-8860-9c183d191db0.png)
+![screenshot-2](https://user-images.githubusercontent.com/28558875/81770456-84e47e00-950a-11ea-8c9e-1356bd9f962d.png)
+![screenshot-3](https://user-images.githubusercontent.com/28558875/81770469-8f067c80-950a-11ea-9d56-2b37267ff605.png)
+<img width="953" alt="screenshot-4" src="https://user-images.githubusercontent.com/28558875/81770507-a3e31000-950a-11ea-82d6-bbb20edc9357.PNG">
 
 ### 5. Acknowledgmements <a name="acknowledgmements"></a>
 I would like to thank [Udacity](https://www.udacity.com/) and [Figure Eight](https://www.figure-eight.com) for their support in this project.
