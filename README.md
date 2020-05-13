@@ -12,6 +12,7 @@ This project is a part of the Data Science Nanodegree Program by Udacity.
 The aim of this project is to build a machine learning model to analyze disaster data from [Figure Eight](https://www.figure-eight.com/) that classifies disaster messages, and show the result in an interactive webpage.
 
 ### 2. File Descriptions <a name="filedescriptions"></a>
+<pre>
 - app
 | - template
 | |- master.html  # main page of web app
@@ -35,6 +36,7 @@ The aim of this project is to build a machine learning model to analyze disaster
 |- screenshot-4    # an example of disaster response webpage
 
 - README.md
+</prev>
 
 ### 3. Instructions <a name="instructions"></a>
 1. Run the following commands in the project's root directory to set up your database and model.
