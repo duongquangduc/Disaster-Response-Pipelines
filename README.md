@@ -36,7 +36,7 @@ The aim of this project is to build a machine learning model to analyze disaster
 |- screenshot-4    # an example of disaster response webpage
 
 - README.md
-</prev>
+</pre>
 
 ### 3. Instructions <a name="instructions"></a>
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -52,13 +52,11 @@ The aim of this project is to build a machine learning model to analyze disaster
 3. Go to http://0.0.0.0:3001/
 
 ### 4. Results <a name="results"></a>
-![screenshot-1](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-1.png)
-
+Check Results folder.
+<!-- ![screenshot-1](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-1.png)
 ![screenshot-2](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-2.png)
-
 ![screenshot-3](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-3.png)
-
-![screenshot-4](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-4.png)
+![screenshot-4](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-4.png) -->
 
 ### 5. Acknowledgmements <a name="acknowledgmements"></a>
 I would like to thank [Udacity](https://www.udacity.com/) and [Figure Eight](https://www.figure-eight.com) for their support in this project.
