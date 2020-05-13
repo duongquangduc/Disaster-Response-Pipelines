@@ -52,13 +52,13 @@ The aim of this project is to build a machine learning model to analyze disaster
 3. Go to http://0.0.0.0:3001/
 
 ### 4. Results <a name="results"></a>
-![screenshot-1](https://view6914b2f4.udacity-student-workspaces.com/files/home/workspace/results/screenshot-1.png)
+![screenshot-1](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-1.png)
 
-![screenshot-2](https://view6914b2f4.udacity-student-workspaces.com/files/home/workspace/results/screenshot-2.png)
+![screenshot-2](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-2.png)
 
-![screenshot-3](https://view6914b2f4.udacity-student-workspaces.com/files/home/workspace/results/screenshot-3.png)
+![screenshot-3](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-3.png)
 
-![screenshot-4](https://view6914b2f4.udacity-student-workspaces.com/files/home/workspace/results/screenshot-4.png)
+![screenshot-4](https://github.com/duongquangduc/Disaster-Response-Pipelines/blob/master/results/screenshot-4.png)
 
 ### 5. Acknowledgmements <a name="acknowledgmements"></a>
 I would like to thank [Udacity](https://www.udacity.com/) and [Figure Eight](https://www.figure-eight.com) for their support in this project.
